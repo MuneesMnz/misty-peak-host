@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/misty-peak-host/static/css/main.a2a09889.css",
-    "main.js": "/misty-peak-host/static/js/main.40203ef6.js",
-    "index.html": "/misty-peak-host/index.html",
-    "main.a2a09889.css.map": "/misty-peak-host/static/css/main.a2a09889.css.map",
-    "main.40203ef6.js.map": "/misty-peak-host/static/js/main.40203ef6.js.map"
+    "main.css": "/static/css/main.a2a09889.css",
+    "main.js": "/static/js/main.cfc33479.js",
+    "index.html": "/index.html",
+    "main.a2a09889.css.map": "/static/css/main.a2a09889.css.map",
+    "main.cfc33479.js.map": "/static/js/main.cfc33479.js.map"
   },
   "entrypoints": [
     "static/css/main.a2a09889.css",
-    "static/js/main.40203ef6.js"
+    "static/js/main.cfc33479.js"
   ]
 }
