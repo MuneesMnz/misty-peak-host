@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/misty-peak-host/static/css/main.a2a09889.css",
+    "main.js": "/misty-peak-host/static/js/main.129143a3.js",
+    "index.html": "/misty-peak-host/index.html",
+    "main.a2a09889.css.map": "/misty-peak-host/static/css/main.a2a09889.css.map",
+    "main.129143a3.js.map": "/misty-peak-host/static/js/main.129143a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2a09889.css",
+    "static/js/main.129143a3.js"
+  ]
+}
