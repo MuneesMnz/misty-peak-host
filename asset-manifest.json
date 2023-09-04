@@ -1,13 +1,21 @@
 {
   "files": {
-    "main.css": "/misty-peak-host/static/css/main.a2a09889.css",
-    "main.js": "/misty-peak-host/static/js/main.cfc33479.js",
-    "index.html": "/misty-peak-host/index.html",
-    "main.a2a09889.css.map": "/misty-peak-host/static/css/main.a2a09889.css.map",
-    "main.cfc33479.js.map": "/misty-peak-host/static/js/main.cfc33479.js.map"
+    "main.css": "/mistypeak-test/static/css/main.4faa014e.css",
+    "main.js": "/mistypeak-test/static/js/main.ff218ed1.js",
+    "static/media/Logo.svg": "/mistypeak-test/static/media/Logo.e45174154642832f0072d444a8aaa37f.svg",
+    "static/media/profile.svg": "/mistypeak-test/static/media/profile.1635bfa995251905222f3843823683c4.svg",
+    "static/media/Vector.svg": "/mistypeak-test/static/media/Vector.3a0fc639e3e7785f921d336765229379.svg",
+    "static/media/search.svg": "/mistypeak-test/static/media/search.b1067e1dbd886ae231db2f5410b4ec38.svg",
+    "static/media/report-icon.svg": "/mistypeak-test/static/media/report-icon.9b70f38c8cbe36caa89c1371ee1be412.svg",
+    "index.html": "/mistypeak-test/index.html",
+    "static/media/galaAdd0.svg": "/mistypeak-test/static/media/galaAdd0.75adde12a9253a5c4d8d9aed36f052ef.svg",
+    "static/media/card.svg": "/mistypeak-test/static/media/card.2be9729534cea28b974604079aed20bf.svg",
+    "static/media/checklist-icon.svg": "/mistypeak-test/static/media/checklist-icon.c3aadffe04af90898a676fe54996fed1.svg",
+    "main.4faa014e.css.map": "/mistypeak-test/static/css/main.4faa014e.css.map",
+    "main.ff218ed1.js.map": "/mistypeak-test/static/js/main.ff218ed1.js.map"
   },
   "entrypoints": [
-    "static/css/main.a2a09889.css",
-    "static/js/main.cfc33479.js"
+    "static/css/main.4faa014e.css",
+    "static/js/main.ff218ed1.js"
   ]
 }
