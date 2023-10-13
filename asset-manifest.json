@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/misty-peak-host/static/css/main.b4a26a3f.css",
-    "main.js": "/misty-peak-host/static/js/main.0f5200bf.js",
-    "static/media/Loader.gif": "/misty-peak-host/static/media/Loader.c26907d0b188645df62e.gif",
-    "static/media/Logo.svg": "/misty-peak-host/static/media/Logo.e45174154642832f0072d444a8aaa37f.svg",
-    "static/media/profile.svg": "/misty-peak-host/static/media/profile.1635bfa995251905222f3843823683c4.svg",
-    "static/media/Vector.svg": "/misty-peak-host/static/media/Vector.3a0fc639e3e7785f921d336765229379.svg",
-    "static/media/search.svg": "/misty-peak-host/static/media/search.b1067e1dbd886ae231db2f5410b4ec38.svg",
-    "static/media/report-icon.svg": "/misty-peak-host/static/media/report-icon.9b70f38c8cbe36caa89c1371ee1be412.svg",
-    "index.html": "/misty-peak-host/index.html",
-    "static/media/galaAdd0.svg": "/misty-peak-host/static/media/galaAdd0.75adde12a9253a5c4d8d9aed36f052ef.svg",
-    "static/media/card.svg": "/misty-peak-host/static/media/card.2be9729534cea28b974604079aed20bf.svg",
-    "static/media/checklist-icon.svg": "/misty-peak-host/static/media/checklist-icon.c3aadffe04af90898a676fe54996fed1.svg",
-    "main.b4a26a3f.css.map": "/misty-peak-host/static/css/main.b4a26a3f.css.map",
-    "main.0f5200bf.js.map": "/misty-peak-host/static/js/main.0f5200bf.js.map"
+    "main.css": "/static/css/main.5e6e37ef.css",
+    "main.js": "/static/js/main.4723c82a.js",
+    "static/media/Loader.gif": "/static/media/Loader.c26907d0b188645df62e.gif",
+    "static/media/Logo.svg": "/static/media/Logo.e45174154642832f0072d444a8aaa37f.svg",
+    "static/media/profile.svg": "/static/media/profile.1635bfa995251905222f3843823683c4.svg",
+    "static/media/Reservation.svg": "/static/media/Reservation.52712111cec7f8ef34c1a742741882de.svg",
+    "static/media/Vector.svg": "/static/media/Vector.3a0fc639e3e7785f921d336765229379.svg",
+    "static/media/search.svg": "/static/media/search.b1067e1dbd886ae231db2f5410b4ec38.svg",
+    "static/media/report-icon.svg": "/static/media/report-icon.9b70f38c8cbe36caa89c1371ee1be412.svg",
+    "index.html": "/index.html",
+    "static/media/galaAdd0.svg": "/static/media/galaAdd0.75adde12a9253a5c4d8d9aed36f052ef.svg",
+    "static/media/card.svg": "/static/media/card.2be9729534cea28b974604079aed20bf.svg",
+    "static/media/checklist-icon.svg": "/static/media/checklist-icon.c3aadffe04af90898a676fe54996fed1.svg",
+    "main.5e6e37ef.css.map": "/static/css/main.5e6e37ef.css.map",
+    "main.4723c82a.js.map": "/static/js/main.4723c82a.js.map"
   },
   "entrypoints": [
-    "static/css/main.b4a26a3f.css",
-    "static/js/main.0f5200bf.js"
+    "static/css/main.5e6e37ef.css",
+    "static/js/main.4723c82a.js"
   ]
 }
