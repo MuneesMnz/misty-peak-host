@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/misty-peak-host/static/css/main.5ea1d7d2.css",
-    "main.js": "/misty-peak-host/static/js/main.18ec159a.js",
+    "main.css": "/misty-peak-host/static/css/main.7d60e7e1.css",
+    "main.js": "/misty-peak-host/static/js/main.577d3b75.js",
     "static/media/Loader.gif": "/misty-peak-host/static/media/Loader.c26907d0b188645df62e.gif",
     "static/media/Logo.svg": "/misty-peak-host/static/media/Logo.2680b4ffd32100e42cd125c279593f78.svg",
     "static/media/profile.svg": "/misty-peak-host/static/media/profile.979aaafd00f96204cdefd717791ba24f.svg",
@@ -13,11 +13,11 @@
     "static/media/galaAdd0.svg": "/misty-peak-host/static/media/galaAdd0.a4966039fc29040b65f382360b945a3c.svg",
     "static/media/card.svg": "/misty-peak-host/static/media/card.415a76d84dbfc8d941d121a92e0fa98b.svg",
     "static/media/checklist-icon.svg": "/misty-peak-host/static/media/checklist-icon.6005c1c5529e301f46a9d561ea490aad.svg",
-    "main.5ea1d7d2.css.map": "/misty-peak-host/static/css/main.5ea1d7d2.css.map",
-    "main.18ec159a.js.map": "/misty-peak-host/static/js/main.18ec159a.js.map"
+    "main.7d60e7e1.css.map": "/misty-peak-host/static/css/main.7d60e7e1.css.map",
+    "main.577d3b75.js.map": "/misty-peak-host/static/js/main.577d3b75.js.map"
   },
   "entrypoints": [
-    "static/css/main.5ea1d7d2.css",
-    "static/js/main.18ec159a.js"
+    "static/css/main.7d60e7e1.css",
+    "static/js/main.577d3b75.js"
   ]
 }
