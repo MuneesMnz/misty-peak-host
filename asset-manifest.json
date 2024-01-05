@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.2609dbee.css",
-    "main.js": "/static/js/main.458058ae.js",
-    "static/media/Loader.gif": "/static/media/Loader.c26907d0b188645df62e.gif",
-    "static/media/Logo.svg": "/static/media/Logo.2680b4ffd32100e42cd125c279593f78.svg",
-    "static/media/profile.svg": "/static/media/profile.979aaafd00f96204cdefd717791ba24f.svg",
-    "static/media/Reservation.svg": "/static/media/Reservation.57a472d535becfb03ba57998a2d0ed04.svg",
-    "static/media/Vector.svg": "/static/media/Vector.10782d8fd69dd807cebc9b1ffaa06427.svg",
-    "static/media/search.svg": "/static/media/search.38430a0790f46806ed565a18f61c0e55.svg",
-    "static/media/report-icon.svg": "/static/media/report-icon.ab5d8dd2b375700cc86c7f8956ac4376.svg",
-    "index.html": "/index.html",
-    "static/media/galaAdd0.svg": "/static/media/galaAdd0.a4966039fc29040b65f382360b945a3c.svg",
-    "static/media/card.svg": "/static/media/card.415a76d84dbfc8d941d121a92e0fa98b.svg",
-    "static/media/checklist-icon.svg": "/static/media/checklist-icon.6005c1c5529e301f46a9d561ea490aad.svg",
-    "main.2609dbee.css.map": "/static/css/main.2609dbee.css.map",
-    "main.458058ae.js.map": "/static/js/main.458058ae.js.map"
+    "main.css": "/misty-peak-host/static/css/main.2609dbee.css",
+    "main.js": "/misty-peak-host/static/js/main.c424c545.js",
+    "static/media/Loader.gif": "/misty-peak-host/static/media/Loader.c26907d0b188645df62e.gif",
+    "static/media/Logo.svg": "/misty-peak-host/static/media/Logo.2680b4ffd32100e42cd125c279593f78.svg",
+    "static/media/profile.svg": "/misty-peak-host/static/media/profile.979aaafd00f96204cdefd717791ba24f.svg",
+    "static/media/Reservation.svg": "/misty-peak-host/static/media/Reservation.57a472d535becfb03ba57998a2d0ed04.svg",
+    "static/media/Vector.svg": "/misty-peak-host/static/media/Vector.10782d8fd69dd807cebc9b1ffaa06427.svg",
+    "static/media/search.svg": "/misty-peak-host/static/media/search.38430a0790f46806ed565a18f61c0e55.svg",
+    "static/media/report-icon.svg": "/misty-peak-host/static/media/report-icon.ab5d8dd2b375700cc86c7f8956ac4376.svg",
+    "index.html": "/misty-peak-host/index.html",
+    "static/media/galaAdd0.svg": "/misty-peak-host/static/media/galaAdd0.a4966039fc29040b65f382360b945a3c.svg",
+    "static/media/card.svg": "/misty-peak-host/static/media/card.415a76d84dbfc8d941d121a92e0fa98b.svg",
+    "static/media/checklist-icon.svg": "/misty-peak-host/static/media/checklist-icon.6005c1c5529e301f46a9d561ea490aad.svg",
+    "main.2609dbee.css.map": "/misty-peak-host/static/css/main.2609dbee.css.map",
+    "main.c424c545.js.map": "/misty-peak-host/static/js/main.c424c545.js.map"
   },
   "entrypoints": [
     "static/css/main.2609dbee.css",
-    "static/js/main.458058ae.js"
+    "static/js/main.c424c545.js"
   ]
 }
