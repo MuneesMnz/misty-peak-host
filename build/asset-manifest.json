@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/misty-peak-host%20/static/css/main.d29ebb3f.css",
+    "main.js": "/misty-peak-host%20/static/js/main.71acca49.js",
+    "static/media/Loader.gif": "/misty-peak-host%20/static/media/Loader.c26907d0b188645df62e.gif",
+    "static/media/Logo.svg": "/misty-peak-host%20/static/media/Logo.2680b4ffd32100e42cd125c279593f78.svg",
+    "static/media/profile.svg": "/misty-peak-host%20/static/media/profile.979aaafd00f96204cdefd717791ba24f.svg",
+    "static/media/Reservation.svg": "/misty-peak-host%20/static/media/Reservation.57a472d535becfb03ba57998a2d0ed04.svg",
+    "static/media/Vector.svg": "/misty-peak-host%20/static/media/Vector.10782d8fd69dd807cebc9b1ffaa06427.svg",
+    "static/media/search.svg": "/misty-peak-host%20/static/media/search.38430a0790f46806ed565a18f61c0e55.svg",
+    "static/media/report-icon.svg": "/misty-peak-host%20/static/media/report-icon.ab5d8dd2b375700cc86c7f8956ac4376.svg",
+    "index.html": "/misty-peak-host%20/index.html",
+    "static/media/galaAdd0.svg": "/misty-peak-host%20/static/media/galaAdd0.a4966039fc29040b65f382360b945a3c.svg",
+    "static/media/card.svg": "/misty-peak-host%20/static/media/card.415a76d84dbfc8d941d121a92e0fa98b.svg",
+    "static/media/checklist-icon.svg": "/misty-peak-host%20/static/media/checklist-icon.6005c1c5529e301f46a9d561ea490aad.svg",
+    "main.d29ebb3f.css.map": "/misty-peak-host%20/static/css/main.d29ebb3f.css.map",
+    "main.71acca49.js.map": "/misty-peak-host%20/static/js/main.71acca49.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d29ebb3f.css",
+    "static/js/main.71acca49.js"
+  ]
+}
