@@ -180,7 +180,9 @@ const WaitlistDisplayContainer = ({
                 <Button
                   value={item.isConfirmed ? "Confirmed" : "Confirm"}
                   green={item.isConfirmed}
-                  handleClick={() => !item.isConfirmed && navigate(`/checkinConform/${item._id}`)}
+                  handleClick={() =>
+                    !item.isConfirmed && navigate(`/checkinConform/${item._id}`)
+                  }
                 />
               </>
             )}
@@ -190,9 +192,7 @@ const WaitlistDisplayContainer = ({
       {open && (
         <ConformPopUp
           setOpen={setOpen}
-          handleConfirm={() =>
-            popUpaction === "confirm" ? handleConform() : deleteCheckin()
-          }
+          handleConfirm={() => deleteCheckin()}
           loader={loader}
           action={popUpaction + " Waitlist Data"}
           error={popUpError}
